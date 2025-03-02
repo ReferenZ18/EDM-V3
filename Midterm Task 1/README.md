@@ -23,6 +23,7 @@ In this activity, we cleaned an excel sheet full of errors and redundancy using 
 ## Step 3 - Relational Data Model
 - Identify the assigned unique IDs.
 - Use the excel data manager and create the relationship using primary and foreign keys.
+- Save and validate the structure.
 
 ## Relational Data Model
 <img src="Images/Relation.PNG" alt="Alt Text" Width="600" heigth="200">
