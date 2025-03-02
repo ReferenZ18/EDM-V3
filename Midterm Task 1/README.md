@@ -2,7 +2,7 @@
 # Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
 In this activity, we cleaned an excel sheet full of errors and redundancy using different excel features.
 
-## Step 1 - DATA CLEANING
+## Step 1 - Data Cleaning
 - Download the raw file and open it.
 - Adjust the column width and row height formatting.
 - Remove duplicates and null values.
