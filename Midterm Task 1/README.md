@@ -25,4 +25,4 @@ In this activity, we cleaned an excel sheet full of errors and redundancy using 
 - Use the excel data manager and create the relationship using primary and foreign keys.
 
 ## Relational Data Model
-<img src="Images/Relation.png" alt="Alt Text" Width="600" heigth="200">
+<img src="Images/Relation.PNG" alt="Alt Text" Width="600" heigth="200">
