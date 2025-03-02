@@ -15,7 +15,7 @@ In this activity, we cleaned an excel sheet full of errors and redundancy using 
 - Seperate and sort table sheets properly.
 
 ## Before
-<img src="Images/Before.png" alt="Alt Text" Width="400" heigth="300">
+<img src="Images/Before.png" alt="Alt Text" Width="600" heigth="200">
 
 ## After
-<img src="Images/After.png" alt="Alt Text" Width="400" heigth="300">
+<img src="Images/After.png" alt="Alt Text" Width="1280" heigth="720">
