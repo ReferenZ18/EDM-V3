@@ -1,5 +1,5 @@
 # EDM-V3
-This is my profile in my EDM subject 
+This is my profile for my EDM subject, where I have compiled various activities.
 ## About Me
 Hello, My name is Renz Kenneth C. Macula and i'm currently taking my first year BSIS in City College of Angeles.
 ## Education
