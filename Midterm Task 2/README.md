@@ -1,6 +1,6 @@
-## Midterm Lab Task 2 -  Data Cleaning and Transformation Using Power Query Editor
+# Midterm Lab Task 2 -  Data Cleaning and Transformation Using Power Query Editor
 
-### Step 1 - Cleaning the data using PowerQuery Editor
+## Step 1 - Cleaning the data using PowerQuery Editor
 - Download and open the raw data given by your instructor.
 - Add the required columns (Min Sal, Max Sal, Role Type).
 - Split the columns (Salary Estimate, Location, Size).
@@ -9,7 +9,7 @@
 - Remove unnecessary columns to avoid redundancy (Company Name ratings, extra descriptions).
 - Save the M Language to a notepad.
   
-  ## Before Cleaning  
+  ### Before Cleaning  
 
     **Uncleaned Image 1.1**
 
@@ -26,7 +26,7 @@
     <img src="images/notcleaned3.png" alt="Alt Text" width="800" height="400">  
 
 
-  ## After Cleaning
+  ### After Cleaning
 
     **Cleaned Image 1.1**
 
@@ -52,7 +52,7 @@
 - Rename merged column to State Full Name and remove nulls.
 - Check and review Query Dependencies.
 
-  ## Grouped Tables
+  ### Grouped Tables
 
     **Salary by Role Type Table**
 
@@ -78,6 +78,10 @@
 
     <img src="images/state.PNG" alt="Alt Text" Width="600" height="200">
 
-  ## Query Dependencies
+  ## Step 3 - Query Dependencies
 
+  - After all the previous steps, check the Query Dependencies in PowerQuery by going to view and selecting the Query Dependencies.
+  - Double check whether they are properly linked appropriately.
+
+  ### Image of Query Dependencies 
     <img src="images/QueryDependencies.png" alt="Alt Text" Width="600" height="200">
