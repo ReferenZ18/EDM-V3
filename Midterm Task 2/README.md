@@ -77,3 +77,7 @@
     **States (Mapping) Table**
 
     <img src="images/state.PNG" alt="Alt Text" Width="600" height="200">
+
+  ## Query Dependencies
+
+    <img src="images/QueryDependencies.png" alt="Alt Text" Width="600" height="200">
