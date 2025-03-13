@@ -1,7 +1,7 @@
 # EDM-V3
 This is my profile for my EDM subject, where I have compiled various activities and projects.
 <br>
->> [Quick Access to Portfolio](https://referenz18.github.io/EDM-V3/)
+---> [Quick Access to Portfolio](https://referenz18.github.io/EDM-V3/) <---
 
 ## About Me
 Hello, My name is Renz Kenneth C. Macula and i'm currently taking my first year BSIS in City College of Angeles.
