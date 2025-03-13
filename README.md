@@ -7,5 +7,5 @@ Hello, My name is Renz Kenneth C. Macula and i'm currently taking my first year 
 - Highschool: Francisco G. Nepomuceno Memorial Highschool
 - Elementary: Abelardo G. Tinio Elementary School
 ## My Projects:
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/ReferenZ18/Midterm-Task-Lab-1-Data-Cleaning-and-Preparation-using-Excel/blob/main/README.md).
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://referenz18.github.io/Midterm-Task-Lab-1-Data-Cleaning-and-Preparation-using-Excel/).
 - Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query Editor](https://github.com/ReferenZ18/EDM-V3/blob/main/Midterm%20Task%202/README.md)
