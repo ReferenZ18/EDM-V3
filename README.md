@@ -1,5 +1,6 @@
 # EDM-V3
-This is my profile for my EDM subject, where I have compiled various activities and projects.
+This is my profile for my EDM subject, where I have compiled various activities and projects. <br>
+<br>
 <br>
 Quick Access to Portfolio [HERE](https://referenz18.github.io/EDM-V3/) <br>
 Quick Access to Lab Task 1 [HERE](https://github.com/ReferenZ18/Midterm-Lab-Task-1-Data-Cleaning-and-Preparation-using-Excel) <br>
