@@ -42,6 +42,11 @@
 
     <img src="images/Uncleaned3.PNG" alt="Alt Text" Width="600" height="800">
 
+
+    **M Language**
+    <img src="images/M_Language.PNG" alt="Alt Text" Width="900" height="600">
+
+    
 ## Step 2 - Reshaping and Grouping the Tables
 - Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
 - Select appropriate columns (Role Type, Size, Min Sal, Max Sal).
