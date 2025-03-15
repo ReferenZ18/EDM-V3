@@ -21,6 +21,26 @@
 - Insert Slicers for: Role Type, Company Size, State
 - Insert Map (Optional).
 
-# Dashboard Image
+## Dashboard Image
 
-<img src="images/Dashboard.PNG" alt="Alt Text" Width="1280" heigth="720">
+<img src="images/Dashboard.PNG" alt="Alt Text" Width="800" heigth="400">
+
+## Salary by Role
+
+<img src="images/sal_by_role.png" alt="Alt Text" Width="800" heigth="400">
+
+## Salary by Size
+
+<img src="images/sal_by_size.png" alt="Alt Text" Width="800" heigth="400">
+
+## Salary by State
+
+<img src="images/sal_by_state.png" alt="Alt Text" Width="800" heigth="400">
+
+## Sector by Average Salary
+
+<img src="images/sector_by_avg_sal.png" alt="Alt Text" Width="800" heigth="600">
+
+## Sector by Size
+
+<img src="images/sal_by_size.png" alt="Alt Text" Width="800" heigth="400">
