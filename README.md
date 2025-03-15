@@ -14,3 +14,4 @@ Hello, My name is Renz Kenneth C. Macula and i'm currently taking my first year 
 ## My Projects:
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://referenz18.github.io/Midterm-Lab-Task-1-Data-Cleaning-and-Preparation-using-Excel/).
 - Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query Editor](https://referenz18.github.io/Midterm-Lab-Task-2-Data-Cleaning-and-Transformation-Using-Power-Query-Editor/)
+- Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://referenz18.github.io/Midterm-Lab-Task-3-Creating-Pivot-Table-and-Dashboard/)
