@@ -21,4 +21,6 @@
 - Insert Slicers for: Role Type, Company Size, State
 - Insert Map (Optional).
 
-  
+# Dashboard Image
+
+<img src="images/Dashboard.PNG" alt="Alt Text" Width="1280" heigth="720">
