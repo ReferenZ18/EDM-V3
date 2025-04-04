@@ -1,5 +1,9 @@
 # EDM-V3
-This is my profile for my EDM subject, where I have compiled various activities and projects. <br>
+This is my profile for my EDM subject, where I have compiled various activities and projects. 
+
+<img src="Images/Ako.jpg" alt="Alt Text" Width="300" heigth="100">
+
+<br>
 <br> Below listed various files for quick access purposes:
 <br>
 [Quick Access to Portfolio](https://referenz18.github.io/EDM-V3/) <br>
