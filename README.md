@@ -6,15 +6,9 @@ This is my profile for my EDM subject, where I have compiled various activities 
   <img src="Images/Ako.jpg" alt="Alt Text" width="300">
 </div>
 
-
-<div align="center">
-  
-  [---> Quick Access to my Portfolio <---](https://referenz18.github.io/EDM-V3/) <br>
-</div>
-
 ## About Me
-Hello ! My name is Renz Kenneth C. Macula and i'm currently taking my first year BSIS in City College of Angeles.
-
+Hello ! My name is Renz Kenneth C. Macula and i'm currently taking my first year BSIS in City College of Angeles. <br>
+[---> Quick Access to my Portfolio <---](https://referenz18.github.io/EDM-V3/) <br>
 ## Education
 - College: City College of Angeles.
 - Highschool: Francisco G. Nepomuceno Memorial Highschool.
