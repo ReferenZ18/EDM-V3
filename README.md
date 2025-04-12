@@ -1,6 +1,6 @@
 # EDM-V3
 
-This is my profile for my EDM subject, where I have compiled various activities and projects. 
+This is my profile for my EDM subject, where I have compiled various activities and projects.  
 
 <div align="center">
   <img src="Images/Ako.jpg" alt="Alt Text" width="300">
