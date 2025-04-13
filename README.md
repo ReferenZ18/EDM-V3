@@ -3,7 +3,7 @@
 This is my profile for my EDM subject, where I have compiled various activities and projects.  
 
 <div align="center">
-  <img src="Images/Ako.jpg" alt="Alt Text" width="300">
+  <img src="Images/Ako.jpg" alt="Alt Text" width="200">
 </div>
 
 ## About Me
