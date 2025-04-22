@@ -23,6 +23,6 @@ Hello ! My name is Renz Kenneth C. Macula and i'm currently taking my first year
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://referenz18.github.io/Midterm-Lab-Task-3-Creating-Pivot-Table-and-Dashboard/)
 
 **Finals Activities**
-- Finals Lab Task 1: [My SQL Basics](https://referenz18.github.io/Final-Lab-Task-1-My-SQL-Basics/)
+- Finals Lab Task 1: [My SQL Basics](https://referenz18.github.io/Final-Lab-Task-1-My-SQL-Basics/) 
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://referenz18.github.io/Final-Lab-Task-2-Transforming-ER-into-Relational-Tables/)
 - Finals Lab Task 3: [Table Manipulation](https://referenz18.github.io/Final-Lab-Task-3-Table-Manipulation/)
