@@ -26,3 +26,4 @@ Hello ! My name is Renz Kenneth C. Macula and i'm currently taking my first year
 - Finals Lab Task 1: [My SQL Basics](https://referenz18.github.io/Final-Lab-Task-1-My-SQL-Basics/) 
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://referenz18.github.io/Final-Lab-Task-2-Transforming-ER-into-Relational-Tables/)
 - Finals Lab Task 3: [Table Manipulation](https://referenz18.github.io/Final-Lab-Task-3-Table-Manipulation/)
+- Finals Lab Task 4: [MySQL Clause](https://referenz18.github.io/Final-Lab-Task-3.1/)
