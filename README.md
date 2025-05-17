@@ -28,4 +28,25 @@ Hello ! My name is Renz Kenneth C. Macula and i'm currently taking my first year
 - Finals Lab Task 3: [Table Manipulation](https://referenz18.github.io/Final-Lab-Task-3-Table-Manipulation/)
 - Finals Lab Task 4: [MySQL Clause](https://referenz18.github.io/Final-Lab-Task-3.1/)
 - Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://referenz18.github.io/Final-Task-5/)
+- Finals Lab Task 6: [MongoDB Practice](https://referenz18.github.io/Final-Task-6/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
